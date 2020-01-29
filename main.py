@@ -33,7 +33,7 @@ while a<6:
   print("Welcome to the world's freaking best Memory Simulator.")
   print("")
   print("1 - View the current memory state!")
-  print("2 - Load a program or file, obviously.")
+  print("2 - Load a program or file, please.")
   print("3 - Let's edit a file in memory.")
   print("4 - Can we delete a file?")
   print("5 - Time to save and close this thing.")
