@@ -27,7 +27,7 @@ file1=["A","l","l","_","w","e","_","h","a","v","e","_","t","o","_","d"]
 file2=["e","c","i","d","e","_","i","s","_","w","h","a","t","_","t","o"]
 storage=[file1,file2]
 
-a=99
+a=1
 while a<6:
   print("")
   print("Welcome to the world's freaking best Memory Simulator.")
